@@ -1,0 +1,2 @@
+# grazi-ai
+This is a repository of studies focused on Moltbot (OpenClaw) to evolve Grazi. The goal is to create a complete assistant in Python, capable of managing databases, forwarding files, providing intelligent notifications, and mediating negotiations in a non-directional way.
